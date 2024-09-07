@@ -8,3 +8,9 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 Answer: [Healthcare: By analyzing patient data such as medical history, genetic information, and lifestyle factors, 
  data science can identify patterns and predict the likelihood of certain diseases before they develop.]
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: [Merging integrates changes by creating a new commit that combines both branches, preserving the history.
+
+	Rebasing applies changes on top of another branch, creating a linear history by rewriting commit history.]
+
