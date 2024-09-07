@@ -14,3 +14,6 @@ Answer: [Merging integrates changes by creating a new commit that combines both 
 
 	Rebasing applies changes on top of another branch, creating a linear history by rewriting commit history.]
 
+Q4: What skills do you hope to improve during this course?
+
+Answer: [Coding]
